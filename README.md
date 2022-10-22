@@ -5,6 +5,6 @@ voice assistant prototype for windows
 
 Exemplos:
   
-  Abrir o bloco de notas\n
-  Abrir a calculadora\n
-  Abrir o Paint\n
+Abrir o bloco de notas
+Abrir a calculadora
+Abrir o Paint
